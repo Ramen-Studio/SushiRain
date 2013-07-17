@@ -1,5 +1,5 @@
 //hELLO THIS IS PAOLO
-
+// this will be gone
 package com.example.sushirain;
 
 import android.os.Bundle;
