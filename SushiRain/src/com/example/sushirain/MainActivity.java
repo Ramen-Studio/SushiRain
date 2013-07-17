@@ -178,6 +178,8 @@ public class MainActivity extends BaseGameActivity implements SensorEventListene
             animatedSprite.setPosition(sX, 50);
         }
     }
+    
+    //a new comment to test merging
 
 
 }
